@@ -9,7 +9,6 @@ class FirstNews extends StatelessWidget {
   Widget build(BuildContext context) {
     return Card(
       child: Container(
-        
         padding: EdgeInsets.symmetric(horizontal: 10),
         child: Column(
           children: <Widget>[
@@ -57,12 +56,9 @@ class FirstNews extends StatelessWidget {
                         Wrap(
                           direction: Axis.horizontal,
                           children: <Widget>[
-                            Text(
-                              date,
-                              style: TextStyle(
-                                fontSize: 14,
-                              ),
-                            ),
+                            Text(date,
+                                style: TextStyle(
+                                    color: Theme.of(context).primaryColor)),
                           ],
                         ),
                       ],

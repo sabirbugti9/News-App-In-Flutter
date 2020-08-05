@@ -30,7 +30,7 @@ class SecondNews extends StatelessWidget {
                   SizedBox(
                     height: 5,
                   ),
-                  Text(date)
+                  Text(date,style: TextStyle(color: Theme.of(context).primaryColor),)
                 ],
               ),
             ),
