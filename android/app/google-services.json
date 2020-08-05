@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "150802833999",
+    "firebase_url": "https://tastee-4c92d.firebaseio.com",
+    "project_id": "tastee-4c92d",
+    "storage_bucket": "tastee-4c92d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150802833999:android:c9a0723d9e1f9a1a3e003a",
+        "android_client_info": {
+          "package_name": "com.example.my_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150802833999-757aus9otjrek65fg3t10c1a33p26oro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDC7imRWTL-3dDBsTZofp6Ady4463EjIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150802833999-757aus9otjrek65fg3t10c1a33p26oro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
